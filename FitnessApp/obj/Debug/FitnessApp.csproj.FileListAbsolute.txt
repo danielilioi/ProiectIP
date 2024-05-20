@@ -1,0 +1,10 @@
+C:\Users\danie\OneDrive\Desktop\ProiectIp\FitnessApp\bin\Debug\FitnessApp.exe.config
+C:\Users\danie\OneDrive\Desktop\ProiectIp\FitnessApp\bin\Debug\FitnessApp.exe
+C:\Users\danie\OneDrive\Desktop\ProiectIp\FitnessApp\bin\Debug\FitnessApp.pdb
+C:\Users\danie\OneDrive\Desktop\ProiectIp\FitnessApp\obj\Debug\FitnessApp.csproj.AssemblyReference.cache
+C:\Users\danie\OneDrive\Desktop\ProiectIp\FitnessApp\obj\Debug\FitnessApp.Properties.Resources.resources
+C:\Users\danie\OneDrive\Desktop\ProiectIp\FitnessApp\obj\Debug\FitnessApp.csproj.GenerateResource.cache
+C:\Users\danie\OneDrive\Desktop\ProiectIp\FitnessApp\obj\Debug\FitnessApp.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Desktop\ProiectIp\FitnessApp\obj\Debug\FitnessApp.exe
+C:\Users\danie\OneDrive\Desktop\ProiectIp\FitnessApp\obj\Debug\FitnessApp.pdb
+C:\Users\danie\OneDrive\Desktop\ProiectIp\FitnessApp\obj\Debug\FitnessApp.MainForm.resources
